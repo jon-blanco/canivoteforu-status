@@ -8,9 +8,7 @@ assignees:
 sites: []
 
 status-website:
-  # GitHub Pages project URL until a custom domain exists.
-  # Then remove baseUrl and set: cname: status.canivoteforu.com
-  baseUrl: /canivoteforu-status
+  cname: status.canivoteforu.com
   name: CanIVoteForU Status
   introTitle: "**CanIVoteForU** status"
   introMessage: Current status of CanIVoteForU.
