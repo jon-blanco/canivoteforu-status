@@ -1,0 +1,21 @@
+owner: jon-blanco
+repo: canivoteforu-status
+user-agent: jon-blanco
+
+assignees:
+  - jon-blanco
+
+sites: []
+
+status-website:
+  # GitHub Pages project URL until a custom domain exists.
+  # Then remove baseUrl and set: cname: status.canivoteforu.com
+  baseUrl: /canivoteforu-status
+  name: CanIVoteForU Status
+  introTitle: "**CanIVoteForU** status"
+  introMessage: Current status of CanIVoteForU.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
