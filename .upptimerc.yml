@@ -5,9 +5,7 @@ user-agent: jon-blanco
 assignees:
   - jon-blanco
 
-sites:
-  - name: Synthetic outage
-    url: https://httpstat.us/500
+sites: []
 
 status-website:
   # GitHub Pages project URL until a custom domain exists.
