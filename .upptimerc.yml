@@ -5,7 +5,11 @@ user-agent: jon-blanco
 assignees:
   - jon-blanco
 
-sites: []
+sites:
+  - name: Hosted checker
+    url: https://app.canivoteforu.com/c/nj-11
+  - name: API healthz
+    url: https://api.canivoteforu.com/healthz
 
 status-website:
   cname: status.canivoteforu.com
