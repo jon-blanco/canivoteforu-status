@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Hosted checker",
+    "url": "https://app.canivoteforu.com/c/nj-11",
+    "icon": "https://icons.duckduckgo.com/ip3/app.canivoteforu.com.ico",
+    "slug": "hosted-checker",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "API healthz",
+    "url": "https://api.canivoteforu.com/healthz",
+    "icon": "https://icons.duckduckgo.com/ip3/api.canivoteforu.com.ico",
+    "slug": "api-healthz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  }
+]
