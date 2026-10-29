@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2087,
-    "timeDay": 2186,
-    "timeWeek": 2305,
-    "timeMonth": 2186,
-    "timeYear": 2087,
+    "time": 2044,
+    "timeDay": 350,
+    "timeWeek": 2019,
+    "timeMonth": 2126,
+    "timeYear": 2044,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,20 @@
     "url": "https://api.canivoteforu.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.canivoteforu.com.ico",
     "slug": "api-healthz",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "83.42%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "83.41%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.55%",
-    "time": 374,
-    "timeDay": 404,
-    "timeWeek": 463,
-    "timeMonth": 373,
-    "timeYear": 374,
+    "uptimeYear": "99.56%",
+    "time": 368,
+    "timeDay": 322,
+    "timeWeek": 425,
+    "timeMonth": 365,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2026-10-28": 239
+      "2026-10-28": 239,
+      "2026-10-29": 0
     }
   }
 ]
