@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1956,
-    "timeDay": 198,
+    "timeDay": 233,
     "timeWeek": 1389,
     "timeMonth": 2000,
     "timeYear": 1956,
@@ -23,20 +23,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.canivoteforu.com.ico",
     "slug": "api-healthz",
     "status": "down",
-    "uptime": "94.97%",
-    "uptimeDay": "18.49%",
-    "uptimeWeek": "71.75%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "94.97%",
+    "uptime": "94.81%",
+    "uptimeDay": "18.48%",
+    "uptimeWeek": "70.80%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "94.81%",
     "time": 355,
-    "timeDay": 178,
+    "timeDay": 236,
     "timeWeek": 331,
     "timeMonth": 355,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2026-10-28": 239,
       "2026-10-30": 1288,
-      "2026-10-29": 1321
+      "2026-10-29": 1321,
+      "2026-10-31": 95
     }
   }
 ]
