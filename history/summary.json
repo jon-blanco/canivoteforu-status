@@ -22,24 +22,25 @@
     "url": "https://api.canivoteforu.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.canivoteforu.com.ico",
     "slug": "api-healthz",
-    "status": "up",
-    "uptime": "93.56%",
-    "uptimeDay": "67.41%",
-    "uptimeWeek": "76.36%",
+    "status": "down",
+    "uptime": "93.59%",
+    "uptimeDay": "67.79%",
+    "uptimeWeek": "79.65%",
     "uptimeMonth": "90.39%",
-    "uptimeYear": "93.56%",
-    "time": 335,
-    "timeDay": 201,
-    "timeWeek": 259,
-    "timeMonth": 323,
-    "timeYear": 335,
+    "uptimeYear": "93.59%",
+    "time": 331,
+    "timeDay": 179,
+    "timeWeek": 250,
+    "timeMonth": 318,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2026-10-28": 239,
       "2026-10-30": 1288,
       "2026-10-29": 1321,
       "2026-10-31": 464,
       "2026-11-04": 430,
-      "2026-11-05": 469
+      "2026-11-05": 469,
+      "2026-11-06": 0
     }
   }
 ]
