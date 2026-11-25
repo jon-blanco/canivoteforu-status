@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.canivoteforu.com.ico",
     "slug": "hosted-checker",
     "status": "up",
-    "uptime": "94.87%",
+    "uptime": "94.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.40%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "89.12%",
-    "uptimeYear": "94.87%",
+    "uptimeYear": "94.91%",
     "time": 1384,
-    "timeDay": 616,
-    "timeWeek": 551,
+    "timeDay": 663,
+    "timeWeek": 541,
     "timeMonth": 637,
     "timeYear": 1384,
     "dailyMinutesDown": {
@@ -27,15 +27,15 @@
     "url": "https://api.canivoteforu.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.canivoteforu.com.ico",
     "slug": "api-healthz",
-    "status": "up",
-    "uptime": "94.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.56%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.38%",
-    "uptimeYear": "94.52%",
+    "uptimeYear": "94.56%",
     "time": 336,
-    "timeDay": 407,
-    "timeWeek": 349,
+    "timeDay": 358,
+    "timeWeek": 348,
     "timeMonth": 319,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -47,7 +47,8 @@
       "2026-11-05": 469,
       "2026-11-06": 435,
       "2026-11-17": 63,
-      "2026-11-16": 381
+      "2026-11-16": 381,
+      "2026-11-25": 0
     }
   }
 ]
